@@ -7,6 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "w4j-test-utils": "https://github.com/Web4Jobs/boilerplate-backend-projects-test-pkg.git",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
